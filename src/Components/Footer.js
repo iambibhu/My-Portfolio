@@ -22,7 +22,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="right">
-                    <h4>About Me</h4>
+                    <h4>About</h4>
                     <p>I like to create solid and responsive frontend products with great user experiences.</p>
                     <div className="social">
                         <a href="https://www.linkedin.com/in/iambibhuprasad/" target="_blank" rel="noopener noreferrer">

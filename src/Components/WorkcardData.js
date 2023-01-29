@@ -12,10 +12,10 @@ const ProjectcardData = [
     },
     {
         imgsrc: pro2,
-        title: "Project Title 2",
-        text: "Lorem 2",
-        view: "https://www.youtube.com/",
-        source: "Source code"
+        title: "Food Order Website",
+        text: "Simple food order website using React JS",
+        view: "https://restaurant-bib.netlify.app/",
+        source: "https://github.com/iambibhu/Food-Order-Website"
     },
     {
         imgsrc: pro3,
