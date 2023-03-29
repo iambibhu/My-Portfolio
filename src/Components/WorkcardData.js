@@ -4,6 +4,8 @@ import pro3 from "../assets/project4.png"
 import pro4 from "../assets/project3.png"
 import pro5 from "../assets/tributepage.png"
 import pro6 from "../assets/app_form.png"
+import pro7 from "../assets/parallax.png"
+import pro8 from "../assets/doc.PNG"
 
 const ProjectcardData = [
     {
@@ -47,6 +49,20 @@ const ProjectcardData = [
         text: "Job Application Form using HTML, CSS (Responsive)",
         view: "https://job-application-form-54e81.web.app/",
         source: "https://github.com/iambibhu/Job-Application-Form"
+    },
+    {
+        imgsrc: pro7,
+        title: "Parallax Website",
+        text: "Parallax Website using HTML, CSS",
+        view: "https://parallax-website-9b627.web.app/",
+        source: "https://github.com/iambibhu/Parallax-Website"
+    },
+    {
+        imgsrc: pro8,
+        title: "Documentation Website",
+        text: "Documentation Website using HTML, CSS",
+        view: "https://documentationweb-982bb.web.app/",
+        source: "https://github.com/iambibhu/Documentation-Website"
     },
 ];
 
