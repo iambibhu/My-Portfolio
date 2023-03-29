@@ -2,12 +2,14 @@ import pro1 from "../assets/project1.png"
 import pro2 from "../assets/project2.png"
 import pro3 from "../assets/project4.png"
 import pro4 from "../assets/project3.png"
+import pro5 from "../assets/tributepage.png"
+import pro6 from "../assets/app_form.png"
 
 const ProjectcardData = [
     {
         imgsrc: pro1,
         title: "Morden Responsive Website",
-        text: "Responsive modern static website using HTML, CSS",
+        text: "Modern static website using HTML, CSS (Responsive)",
         view: "https://iambibhu.github.io/Modern-Responsive-Website",
         source: "https://github.com/iambibhu/Modern-Responsive-Website"
     },
@@ -20,10 +22,10 @@ const ProjectcardData = [
     },
     {
         imgsrc: pro3,
-        title: "Glassmorphic SignUp Page",
-        text: "Responsive Portfolio website using React JS, HTML, CSS",
-        view: "https://signup-bib.netlify.app/",
-        source: "https://github.com/iambibhu/Glassmorphic-SignUp-Page"
+        title: "Portfolio Website",
+        text: "Portfolio website using React JS, HTML, CSS (Responsive)",
+        view: "https://portfolio-bibhu.netlify.app/",
+        source: "https://github.com/iambibhu/My-Portfolio"
     },
     {
         imgsrc: pro4,
@@ -31,6 +33,20 @@ const ProjectcardData = [
         text: "Stylish SignUp page using HTML, CSS",
         view: "https://signup-bib.netlify.app/",
         source: "https://github.com/iambibhu/Glassmorphic-SignUp-Page"
+    },
+    {
+        imgsrc: pro5,
+        title: "Tribute Website",
+        text: "Tribute page using HTML, CSS (Responsive)",
+        view: "https://tribute-website-55b16.web.app/",
+        source: "https://github.com/iambibhu/Tribute-Page"
+    },
+    {
+        imgsrc: pro6,
+        title: "Job Application Form",
+        text: "Job Application Form using HTML, CSS (Responsive)",
+        view: "https://job-application-form-54e81.web.app/",
+        source: "https://github.com/iambibhu/Job-Application-Form"
     },
 ];
 
