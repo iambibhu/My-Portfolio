@@ -1,11 +1,13 @@
-import pro1 from "../assets/project1.png"
-import pro2 from "../assets/project2.png"
-import pro3 from "../assets/project4.png"
-import pro4 from "../assets/project3.png"
-import pro5 from "../assets/tributepage.png"
-import pro6 from "../assets/app_form.png"
-import pro7 from "../assets/parallax.png"
+import pro1 from "../assets/project1.JPG"
+import pro2 from "../assets/project2.JPG"
+import pro3 from "../assets/project4.JPG"
+import pro4 from "../assets/project3.JPG"
+import pro5 from "../assets/tributepage.JPG"
+import pro6 from "../assets/app_form.JPG"
+import pro7 from "../assets/parallax.JPG"
 import pro8 from "../assets/doc.PNG"
+import pro9 from "../assets/devland.JPG"
+import pro10 from "../assets/resta.JPG"
 
 const ProjectcardData = [
     {
@@ -16,6 +18,27 @@ const ProjectcardData = [
         source: "https://github.com/iambibhu/Modern-Responsive-Website"
     },
     {
+        imgsrc: pro3,
+        title: "Portfolio Website",
+        text: "Portfolio website using React JS, HTML, CSS (Responsive)",
+        view: "https://my-portfolio-f7647.web.app/",
+        source: "https://github.com/iambibhu/My-Portfolio"
+    },
+    {
+        imgsrc: pro10,
+        title: "Restaurant Website",
+        text: "Documentation Website using HTML, CSS (Responsive)",
+        view: "https://restaurant-website-e0fb2.web.app/",
+        source: "https://github.com/iambibhu/Restaurant-Website"
+    },
+    {
+        imgsrc: pro9,
+        title: "Developer Landing Page",
+        text: "Documentation Website using HTML, CSS (Responsive)",
+        view: "https://developer-landing-page.web.app/",
+        source: "https://github.com/iambibhu/Developer-Landing-Page"
+    },
+    {
         imgsrc: pro2,
         title: "Food Order Website",
         text: "Simple food order website using React JS, HTML, CSS",
@@ -23,32 +46,11 @@ const ProjectcardData = [
         source: "https://github.com/iambibhu/Food-Order-Website"
     },
     {
-        imgsrc: pro3,
-        title: "Portfolio Website",
-        text: "Portfolio website using React JS, HTML, CSS (Responsive)",
-        view: "https://portfolio-bibhu.netlify.app/",
-        source: "https://github.com/iambibhu/My-Portfolio"
-    },
-    {
         imgsrc: pro4,
         title: "Glassmorphic SignUp Page",
         text: "Stylish SignUp page using HTML, CSS",
         view: "https://signup-bib.netlify.app/",
         source: "https://github.com/iambibhu/Glassmorphic-SignUp-Page"
-    },
-    {
-        imgsrc: pro5,
-        title: "Tribute Website",
-        text: "Tribute page using HTML, CSS (Responsive)",
-        view: "https://tribute-website-55b16.web.app/",
-        source: "https://github.com/iambibhu/Tribute-Page"
-    },
-    {
-        imgsrc: pro6,
-        title: "Job Application Form",
-        text: "Job Application Form using HTML, CSS (Responsive)",
-        view: "https://job-application-form-54e81.web.app/",
-        source: "https://github.com/iambibhu/Job-Application-Form"
     },
     {
         imgsrc: pro7,
@@ -63,6 +65,20 @@ const ProjectcardData = [
         text: "Documentation Website using HTML, CSS",
         view: "https://documentationweb-982bb.web.app/",
         source: "https://github.com/iambibhu/Documentation-Website"
+    },
+    {
+        imgsrc: pro6,
+        title: "Job Application Form",
+        text: "Job Application Form using HTML, CSS (Responsive)",
+        view: "https://job-application-form-54e81.web.app/",
+        source: "https://github.com/iambibhu/Job-Application-Form"
+    },
+    {
+        imgsrc: pro5,
+        title: "Tribute Website",
+        text: "Tribute page using HTML, CSS (Responsive)",
+        view: "https://tribute-website-55b16.web.app/",
+        source: "https://github.com/iambibhu/Tribute-Page"
     },
 ];
 

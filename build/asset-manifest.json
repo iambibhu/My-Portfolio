@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.924586af.css",
-    "main.js": "/static/js/main.e00b5120.js",
-    "static/media/parallax.png": "/static/media/parallax.993e391e2d67fd02933c.png",
-    "static/media/project4.png": "/static/media/project4.07ed256b73bd5bc6ce7c.png",
-    "static/media/project2.png": "/static/media/project2.65fa9327880de8b15045.png",
-    "static/media/tributepage.png": "/static/media/tributepage.43d0e0768868e4879674.png",
-    "static/media/project3.png": "/static/media/project3.2706516af356f92e1882.png",
-    "static/media/project1.png": "/static/media/project1.aef76ec6f47d8bdb5366.png",
+    "main.js": "/static/js/main.354eb972.js",
+    "static/media/parallax.JPG": "/static/media/parallax.839fe6f38035159ffbe7.JPG",
     "static/media/intro-bg.jpg": "/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
     "static/media/doc.PNG": "/static/media/doc.8c3bfda33f657dc50480.PNG",
-    "static/media/app_form.png": "/static/media/app_form.bebf6556349512d6cd6a.png",
+    "static/media/project2.JPG": "/static/media/project2.4b986688773a8485db7b.JPG",
+    "static/media/project4.JPG": "/static/media/project4.746b70b8c58c3230f5e3.JPG",
+    "static/media/tributepage.JPG": "/static/media/tributepage.7aedfaa44b5ae656446d.JPG",
+    "static/media/resta.JPG": "/static/media/resta.a222ee8c5ca365ddedd1.JPG",
+    "static/media/devland.JPG": "/static/media/devland.82bff09dac80c98ebaa8.JPG",
+    "static/media/project1.JPG": "/static/media/project1.cb81430450eb56748d42.JPG",
+    "static/media/app_form.JPG": "/static/media/app_form.11359a68ac8009d72a8e.JPG",
+    "static/media/project3.JPG": "/static/media/project3.c92012ec82e05a273afa.JPG",
     "index.html": "/index.html",
     "main.924586af.css.map": "/static/css/main.924586af.css.map",
-    "main.e00b5120.js.map": "/static/js/main.e00b5120.js.map"
+    "main.354eb972.js.map": "/static/js/main.354eb972.js.map"
   },
   "entrypoints": [
     "static/css/main.924586af.css",
-    "static/js/main.e00b5120.js"
+    "static/js/main.354eb972.js"
   ]
 }
